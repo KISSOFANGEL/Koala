@@ -1,0 +1,22 @@
+2018-11-20 14:59:01,172 INFO 17454 [egg:logger] init all loggers with options: {"dir":"/Users/icourt/Applications/workstation/Koala/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"Koala-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-11-20 14:59:01,852 INFO 17454 [egg:core] dump config after load, 6ms
+2018-11-20 14:59:01,897 INFO 17454 [egg-watcher] Start watching: ["/Users/icourt/Applications/workstation/Koala/app","/Users/icourt/Applications/workstation/Koala/config","/Users/icourt/Applications/workstation/Koala/mocks","/Users/icourt/Applications/workstation/Koala/mocks_proxy","/Users/icourt/Applications/workstation/Koala/app.js"]
+2018-11-20 14:59:01,897 INFO 17454 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/app"
+2018-11-20 14:59:01,898 INFO 17454 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/config"
+2018-11-20 14:59:01,898 INFO 17454 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/mocks"
+2018-11-20 14:59:01,898 INFO 17454 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/mocks_proxy"
+2018-11-20 14:59:01,898 INFO 17454 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/app.js"
+2018-11-20 14:59:01,898 INFO 17454 [egg-watcher:agent] watcher start success
+2018-11-20 14:59:01,954 INFO 17454 [egg:core] dump config after ready, 13ms
+2018-11-20 14:59:15,827 INFO 17454 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/icourt/Applications/workstation/Koala/config/manifest.json","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8609652386,"size":2781,"blocks":8,"atimeMs":1542697155812.196,"mtimeMs":1542697155812.3445,"ctimeMs":1542697155812.3445,"birthtimeMs":1542697155812.196,"atime":"2018-11-20T06:59:15.812Z","mtime":"2018-11-20T06:59:15.812Z","ctime":"2018-11-20T06:59:15.812Z","birthtime":"2018-11-20T06:59:15.812Z"},"remove":false,"isDirectory":false,"isFile":true}
+2018-11-20 15:01:55,036 INFO 17776 [egg:logger] init all loggers with options: {"dir":"/Users/icourt/Applications/workstation/Koala/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"Koala-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-11-20 15:01:55,795 INFO 17776 [egg:core] dump config after load, 5ms
+2018-11-20 15:01:55,841 INFO 17776 [egg-watcher] Start watching: ["/Users/icourt/Applications/workstation/Koala/app","/Users/icourt/Applications/workstation/Koala/config","/Users/icourt/Applications/workstation/Koala/mocks","/Users/icourt/Applications/workstation/Koala/mocks_proxy","/Users/icourt/Applications/workstation/Koala/app.js"]
+2018-11-20 15:01:55,841 INFO 17776 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/app"
+2018-11-20 15:01:55,841 INFO 17776 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/config"
+2018-11-20 15:01:55,842 INFO 17776 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/mocks"
+2018-11-20 15:01:55,842 INFO 17776 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/mocks_proxy"
+2018-11-20 15:01:55,842 INFO 17776 [egg-watcher] Start watching: "/Users/icourt/Applications/workstation/Koala/app.js"
+2018-11-20 15:01:55,842 INFO 17776 [egg-watcher:agent] watcher start success
+2018-11-20 15:01:55,893 INFO 17776 [egg:core] dump config after ready, 8ms
+2018-11-20 15:02:11,337 INFO 17776 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/icourt/Applications/workstation/Koala/config/manifest.json","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8609652386,"size":2781,"blocks":8,"atimeMs":1542697156770.5037,"mtimeMs":1542697331324.551,"ctimeMs":1542697331324.551,"birthtimeMs":1542697155812.196,"atime":"2018-11-20T06:59:16.771Z","mtime":"2018-11-20T07:02:11.325Z","ctime":"2018-11-20T07:02:11.325Z","birthtime":"2018-11-20T06:59:15.812Z"},"remove":false,"isDirectory":false,"isFile":true}

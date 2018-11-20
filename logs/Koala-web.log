@@ -1,0 +1,4 @@
+2018-11-20 14:59:03,380 INFO 17455 [egg-logview] mount log /Users/icourt/Applications/workstation/Koala/logs at http://127.0.0.1:7001/__logs
+2018-11-20 14:59:16,767 INFO 17455 [-/172.26.7.186/-/337ms GET /] [access] 172.26.7.186: - GET / HTTP/200 162821 - 283 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+2018-11-20 15:01:57,472 INFO 17777 [egg-logview] mount log /Users/icourt/Applications/workstation/Koala/logs at http://127.0.0.1:7001/__logs
+2018-11-20 15:02:12,254 INFO 17777 [-/172.26.7.186/-/595ms GET /] [access] 172.26.7.186: - GET / HTTP/200 162821 - 488 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36

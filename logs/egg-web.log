@@ -1,0 +1,38 @@
+2018-11-20 14:59:03,265 INFO 17455 [egg:logger] init all loggers with options: {"dir":"/Users/icourt/Applications/workstation/Koala/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"Koala-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-20 14:59:03,299 INFO 17455 [egg-schedule]: register schedule /Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-20 14:59:03,299 INFO 17455 [egg-schedule]: register schedule /Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-20 14:59:03,299 INFO 17455 [egg-multipart] stream mode enable
+2018-11-20 14:59:03,373 INFO 17455 [egg-static] starting static serve /public/ -> /Users/icourt/Applications/workstation/Koala/public
+2018-11-20 14:59:03,376 INFO 17455 [egg-security] use csrf middleware
+2018-11-20 14:59:03,377 INFO 17455 [egg-security] use methodnoallow middleware
+2018-11-20 14:59:03,377 INFO 17455 [egg-security] use noopen middleware
+2018-11-20 14:59:03,378 INFO 17455 [egg-security] use nosniff middleware
+2018-11-20 14:59:03,379 INFO 17455 [egg-security] use xssProtection middleware
+2018-11-20 14:59:03,379 INFO 17455 [egg-security] use dta middleware
+2018-11-20 14:59:03,379 INFO 17455 [egg-security] compose 6 middlewares into one security middleware
+2018-11-20 14:59:03,395 INFO 17455 [egg:core] dump config after load, 6ms
+2018-11-20 14:59:03,444 INFO 17455 [egg-watcher:application] watcher start success
+2018-11-20 14:59:03,462 INFO 17455 [egg:core] dump config after ready, 15ms
+2018-11-20 14:59:21,891 WARN 17455 [http_server] A request `GET /public/img/loading.gif` timeout with client (::ffff:172.26.7.186:54974)
+2018-11-20 14:59:21,901 WARN 17455 [http_server] A request `GET /public/js/runtime.js` timeout with client (::ffff:172.26.7.186:54975)
+2018-11-20 14:59:21,901 WARN 17455 [http_server] A request `GET /public/js/chunk/index/index.js` timeout with client (::ffff:172.26.7.186:54983)
+2018-11-20 14:59:22,542 WARN 17455 [http_server] A request `GET /favicon.ico` timeout with client (::ffff:172.26.7.186:54982)
+2018-11-20 15:01:57,290 INFO 17777 [egg:logger] init all loggers with options: {"dir":"/Users/icourt/Applications/workstation/Koala/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"Koala-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-20 15:01:57,355 INFO 17777 [egg-schedule]: register schedule /Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-20 15:01:57,355 INFO 17777 [egg-schedule]: register schedule /Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-20 15:01:57,356 INFO 17777 [egg-multipart] stream mode enable
+2018-11-20 15:01:57,463 INFO 17777 [egg-static] starting static serve /public/ -> /Users/icourt/Applications/workstation/Koala/public
+2018-11-20 15:01:57,467 INFO 17777 [egg-security] use csrf middleware
+2018-11-20 15:01:57,469 INFO 17777 [egg-security] use methodnoallow middleware
+2018-11-20 15:01:57,469 INFO 17777 [egg-security] use noopen middleware
+2018-11-20 15:01:57,470 INFO 17777 [egg-security] use nosniff middleware
+2018-11-20 15:01:57,471 INFO 17777 [egg-security] use xssProtection middleware
+2018-11-20 15:01:57,471 INFO 17777 [egg-security] use dta middleware
+2018-11-20 15:01:57,471 INFO 17777 [egg-security] compose 6 middlewares into one security middleware
+2018-11-20 15:01:57,492 INFO 17777 [egg:core] dump config after load, 6ms
+2018-11-20 15:01:57,543 INFO 17777 [egg-watcher:application] watcher start success
+2018-11-20 15:01:57,558 INFO 17777 [egg:core] dump config after ready, 11ms
+2018-11-20 15:02:17,387 WARN 17777 [http_server] A request `GET /public/img/loading.gif` timeout with client (::ffff:172.26.7.186:55716)
+2018-11-20 15:02:17,388 WARN 17777 [http_server] A request `GET /public/js/runtime.js` timeout with client (::ffff:172.26.7.186:55717)
+2018-11-20 15:02:17,400 WARN 17777 [http_server] A request `GET /public/js/chunk/index/index.js` timeout with client (::ffff:172.26.7.186:55724)
+2018-11-20 15:02:17,677 WARN 17777 [http_server] A request `GET /public/js/chunk/common.js` timeout with client (::ffff:172.26.7.186:55723)

@@ -1,0 +1,344 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/icourt/Applications/workstation/Koala/config/config.default.js"
+  },
+  "vuessr": {
+    "layout": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+      "runInNewContext": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "doctype": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+    "dir": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+    "encoding": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "env": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "level": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+    "dir": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+    "maxAge": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+    "dynamic": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+  "middleware": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+  "security": {
+    "csrf": {
+      "ignoreJSON": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+      "cookieName": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+      "sessionName": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+      "headerName": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/config/config.default.js",
+      "value": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+    "protocolWhiteList": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+    "hsts": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "view": {
+    "cache": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+    "root": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+    "ignoreDirs": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+    "fastReady": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+    "prefix": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logview/config/config.default.js",
+    "staticHost": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logview/config/config.default.js"
+  },
+  "webpack": "/Users/icourt/Applications/workstation/Koala/config/config.local.js",
+  "session": {
+    "maxAge": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "cors": "/Users/icourt/Applications/workstation/Koala/node_modules/egg-cors/config/config.default.js",
+  "env": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "name": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "version": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "description": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "start": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "debug": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "clean": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "build": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "lint": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "fix": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "ii": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "element-ui": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "extend": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "font-awesome": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "lodash-id": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "lowdb": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "moment": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "shortid": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "showdown": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "simplemde": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vue": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vue-i18n": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vue-material-input": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "easywebpack-vue": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-logview": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "ip": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "sass-loader": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "url": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "license": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "webpack": {
+      "loaders": {
+        "scss": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "strict": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "depth": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "logging": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "port": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/icourt/Applications/workstation/Koala/node_modules/egg/config/config.default.js"
+}
